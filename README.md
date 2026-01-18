@@ -113,12 +113,14 @@ Frontend will run on http://localhost:3000
 - `POST /api/jobs/{id}/evaluate` - Trigger evaluation
 - `GET /api/jobs/{id}/top-candidates` - Get top 5 candidates
 
+<!--
 ## Cost Estimation
 
 Per 100 resumes:
 - Embeddings: ~$0.05
 - GPT-4 evaluations (15 candidates): ~$1.50
 - **Total: ~$1.55 per batch**
+-->
 
 ## Project Structure
 
