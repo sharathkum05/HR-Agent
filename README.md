@@ -13,8 +13,6 @@
 
 *Upload 100 resumes, get the top 5 candidates using semantic search and GPT-4 evaluation*
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ---
