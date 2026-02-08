@@ -1,4 +1,4 @@
-# 🤖 **HR-Agent - RAG-Based Intelligent Resume Screening**
+# 🔗 **HR-Agent - RAG-Based Intelligent Resume Screening**
 
 <div align="center">
 
